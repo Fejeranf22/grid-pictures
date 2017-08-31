@@ -13,12 +13,14 @@
 }
 
 p{
+  font-family: 'Pacifico', cursive;
   color:grey;
   margin-left: 20px;
   padding: 10px;
   }
 
 #title {
+  font-family: 'Pacifico', cursive;
   width:250px;
   padding-left: 20px;
   border: 2px solid grey;
